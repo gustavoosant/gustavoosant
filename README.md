@@ -1,5 +1,5 @@
 
-#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=👋+Hello,+Gustavo+Santiago+here;👋+Welcome+to+my+profil)](https://git.io/typing-svg)
+#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=👋+Hello,+Gustavo+Santiago+here;👋+Welcome+to+my+profile)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 <br><br>I'm Gustavo Santiago, I currently work as a Support Analyst<br>and i'm studying Java and it's technologies.
