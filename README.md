@@ -25,4 +25,3 @@
 
 [![Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=gustavoosant&repo=dslist&theme=react&show_owner=true)](https://github.com/gustavoosant/dslist)
 [![App Lista de compra](https://github-readme-stats.vercel.app/api/pin/?username=gustavoosant&repo=listamercado_back&theme=react&show_owner=true)](https://github.com/gustavoosant/listamercado_back)
-[![Joga+](https://github-readme-stats.vercel.app/api/pin/?username=gustavoosant&repo=jogamaisapp&theme=react&show_owner=true)](https://github.com/gustavoosant/jogamaisapp)
