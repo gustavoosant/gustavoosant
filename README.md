@@ -22,6 +22,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoosant&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # Repository
-[![Joga+](https://github-readme-stats.vercel.app/api/pin/?username=gustavoosant&repo=jogamaisapp&theme=react&show_owner=true&cache_seconds=1)](https://github.com/gustavoosant/jogamaisapp)
+[![Joga+](https://github-readme-stats.vercel.app/api/pin/?username=gustavoosant&repo=jogamaisapp&theme=react&show_owner=true)](https://github.com/gustavoosant/jogamaisapp)
 [![Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=gustavoosant&repo=dslist&theme=react&show_owner=true)](https://github.com/gustavoosant/dslist)
 [![App Lista de compra](https://github-readme-stats.vercel.app/api/pin/?username=gustavoosant&repo=listamercado_back&theme=react&show_owner=true)](https://github.com/gustavoosant/listamercado_back)
