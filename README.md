@@ -15,9 +15,3 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
-
-
-# Repository
-[![Joga+](https://github-readme-stats.vercel.app/api/pin/?username=gustavoosant&repo=jogamaisapp&theme=react&show_owner=true)](https://github.com/gustavoosant/jogamaisapp)
-[![Backend Project](https://github-readme-stats.vercel.app/api/pin/?username=gustavoosant&repo=dslist&theme=react&show_owner=true)](https://github.com/gustavoosant/dslist)
-[![App Lista de compra](https://github-readme-stats.vercel.app/api/pin/?username=gustavoosant&repo=listamercado_back&theme=react&show_owner=true)](https://github.com/gustavoosant/listamercado_back)
