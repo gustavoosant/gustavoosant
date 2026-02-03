@@ -2,7 +2,7 @@
 #  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=👋+Hello,+Gustavo+Santiago+here;👋+Welcome+to+my+profile)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
-<br><br>Olá, meu nome é Gustavo e atualmente estou trabalha como Desenvolvedor de Integrações, desenvolvendo e prestando manutenção a integrações em JavaScript/Node.js.
+<br><br>Olá, meu nome é Gustavo e atualmente estou trabalhando como Desenvolvedor de Integrações, desenvolvendo e prestando manutenção a integrações em JavaScript/Node.js.
 
 
 ## 🌐 Socials
